@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo iwhoami
+sudo whoami
